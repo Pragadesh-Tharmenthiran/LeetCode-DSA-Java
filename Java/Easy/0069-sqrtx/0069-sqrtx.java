@@ -1,12 +1,10 @@
 class Solution {
     public int mySqrt(int x) {
+        if (x == 0) return x;
         int start = 1;
-        int end = x/2;
+        int end = x;
         int result = 1;
 
-        if (x < 2) {
-            return x;
-        }
         while  (start <= end) {
             int mid = start + (end - start) / 2;
 
