@@ -9,8 +9,8 @@ public class Solution extends VersionControl {
         while (start <= end) {
             int mid = start + (end - start) / 2;
             boolean isBad = isBadVersion(mid);
-            if (isBad == true) {
-                result = mid;
+            if (isBad == true && isBadVersion(mid-1) == false) return mid;
+            else if (isBad == true) {
                 end = mid - 1;
             }
             else {
