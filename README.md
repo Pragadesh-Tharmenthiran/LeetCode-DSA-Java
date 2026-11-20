@@ -24,4 +24,8 @@ My Data Structures and Algorithms practice using Java.
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Easy/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Easy/0374-guess-number-higher-or-lower/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0182-duplicate-emails](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/MySQL/Easy/0182-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
