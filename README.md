@@ -27,5 +27,6 @@ My Data Structures and Algorithms practice using Java.
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/MySQL/Easy/0175-combine-two-tables/) | Easy |
 | [0182-duplicate-emails](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/MySQL/Easy/0182-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
