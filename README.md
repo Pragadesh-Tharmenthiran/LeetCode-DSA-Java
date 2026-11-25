@@ -7,6 +7,7 @@ My Data Structures and Algorithms practice using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Easy/0069-sqrtx/) | Easy |
+| [0189-rotate-array](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Medium/0189-rotate-array/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Easy/0367-valid-perfect-square/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -34,5 +35,10 @@ My Data Structures and Algorithms practice using Java.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Medium/0189-rotate-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Easy/0485-max-consecutive-ones/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0189-rotate-array](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Medium/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->
