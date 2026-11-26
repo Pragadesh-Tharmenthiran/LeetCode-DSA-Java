@@ -8,11 +8,13 @@ My Data Structures and Algorithms practice using Java.
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Easy/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Medium/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Easy/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Easy/0367-valid-perfect-square/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Easy/0069-sqrtx/) | Easy |
+| [0268-missing-number](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Easy/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Easy/0278-first-bad-version/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Easy/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Easy/0374-guess-number-higher-or-lower/) | Easy |
@@ -37,10 +39,23 @@ My Data Structures and Algorithms practice using Java.
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Medium/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Easy/0268-missing-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Easy/0485-max-consecutive-ones/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Medium/0189-rotate-array/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Easy/0268-missing-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Easy/0268-missing-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Easy/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
