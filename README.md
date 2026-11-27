@@ -38,6 +38,7 @@ My Data Structures and Algorithms practice using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Easy/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Medium/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Easy/0268-missing-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Easy/0485-max-consecutive-ones/) | Easy |
@@ -49,6 +50,7 @@ My Data Structures and Algorithms practice using Java.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Easy/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Easy/0268-missing-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -57,5 +59,18 @@ My Data Structures and Algorithms practice using Java.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Easy/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Easy/0268-missing-number/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Easy/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Easy/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Easy/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
