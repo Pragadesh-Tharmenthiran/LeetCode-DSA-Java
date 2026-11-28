@@ -42,11 +42,13 @@ My Data Structures and Algorithms practice using Java.
 | [0189-rotate-array](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Medium/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Easy/0268-missing-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Easy/0485-max-consecutive-ones/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Medium/0189-rotate-array/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,4 +75,8 @@ My Data Structures and Algorithms practice using Java.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Easy/0169-majority-element/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Pragadesh-Tharmenthiran/LeetCode-DSA-Java/tree/main/Java/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 <!---LeetCode Topics End-->
